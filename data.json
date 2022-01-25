@@ -14,6 +14,21 @@
       "id": 3,
       "text": "Sensacional",
       "damage": 100
+    },
+    {
+      "id": 4,
+      "text": "Fantabuloso",
+      "damage": 100
+    },
+    {
+      "id": 5,
+      "text": "Terrible",
+      "damage": 100
+    },
+    {
+      "id": 6,
+      "text": "Chotísimo",
+      "damage": 100
     }
   ],
   "items": [
@@ -36,6 +51,66 @@
       "id": 4,
       "text": "-el mazo-",
       "damage": -500
+    },
+    {
+      "id": 5,
+      "text": "pistolón",
+      "damage": 100
+    },
+    {
+      "id": 6,
+      "text": "katanga",
+      "damage": 100
+    },
+    {
+      "id": 7,
+      "text": "nun-chakra",
+      "damage": 100
+    },
+    {
+      "id": 8,
+      "text": "paperto",
+      "damage": 100
+    },
+    {
+      "id": 9,
+      "text": "tenedor",
+      "damage": 100
+    },
+    {
+      "id": 10,
+      "text": "cuchillito",
+      "damage": 100
+    },
+    {
+      "id": 11,
+      "text": "garrote",
+      "damage": 100
+    },
+    {
+      "id": 12,
+      "text": "lanza-lamas",
+      "damage": 100
+    },
+    {
+      "id": 13,
+      "text": "lamebotas",
+      "damage": 100
+    },
+    {
+      "id": 14,
+      "text": "puñete",
+      "damage": 100
+    },
+    {
+      "id": 15,
+      "text": "cacarnio",
+      "damage": 100
+    },
+    {
+      "id": 16,
+      "text": "serrucho",
+      "damage": 100
     }
   ],
   "suffixes": [
@@ -53,6 +128,36 @@
       "id": 3,
       "text": "de los amigos de Eladia",
       "damage": -50
+    },
+    {
+      "id": 4,
+      "text": "del tachero homofóbico",
+      "damage": 100
+    },
+    {
+      "id": 5,
+      "text": "de hielo",
+      "damage": 100
+    },
+    {
+      "id": 6,
+      "text": "del orto",
+      "damage": 100
+    },
+    {
+      "id": 7,
+      "text": "depe lepe",
+      "damage": 100
+    },
+    {
+      "id": 8,
+      "text": "azul",
+      "damage": 100
+    },
+    {
+      "id": 9,
+      "text": "gordito",
+      "damage": 100
     }
   ]
 }
