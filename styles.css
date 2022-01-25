@@ -12,7 +12,8 @@ a {
 }
 
 p {
-    color: rgb(90, 90, 90);
+  color: rgb(90, 90, 90);
+  padding: 1.5rem;
 }
 
 .title {
@@ -22,6 +23,7 @@ p {
   width: 100%;
   text-align: center;
   padding: 1.5rem;
+  overflow: hidden;
 }
 
 .item--em {
@@ -31,4 +33,16 @@ p {
 .begging {
   text-align: center;
   font-family: "Poppins", sans-serif;
+}
+
+@media only screen and (max-width: 290px) {
+  .title {
+    font-size: 1.5rem;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .title {
+    font-size: 2.5rem;
+  }
 }
