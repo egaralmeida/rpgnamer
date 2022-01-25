@@ -29,12 +29,62 @@
       "id": 6,
       "text": "Chotísimo",
       "damage": 100
+    },
+    {
+      "id": 7,
+      "text": "Descomunal",
+      "damage": 100
+    },
+    {
+      "id": 8,
+      "text": "Insensato",
+      "damage": 100
+    },
+    {
+      "id": 9,
+      "text": "Copado",
+      "damage": 100
+    },
+    {
+      "id": 10,
+      "text": "Menguante",
+      "damage": 100
+    },
+    {
+      "id": 11,
+      "text": "Paupérrimo",
+      "damage": 100
+    },
+    {
+      "id": 12,
+      "text": "Esclarecedor",
+      "damage": 100
+    },
+    {
+      "id": 13,
+      "text": "Curioso",
+      "damage": 100
+    },
+    {
+      "id": 14,
+      "text": "Lamebotas",
+      "damage": 100
+    },
+    {
+      "id": 15,
+      "text": "Finísimo",
+      "damage": 100
+    },
+    {
+      "id": 16,
+      "text": "Poderoso",
+      "damage": 100
     }
   ],
   "items": [
     {
       "id": 1,
-      "text": "alabarda",
+      "text": "alabardo",
       "damage": 50
     },
     {
@@ -89,7 +139,7 @@
     },
     {
       "id": 12,
-      "text": "lanza-lamas",
+      "text": "lanzallamas",
       "damage": 100
     },
     {
@@ -110,6 +160,31 @@
     {
       "id": 16,
       "text": "serrucho",
+      "damage": 100
+    },
+    {
+      "id": 17,
+      "text": "espadol",
+      "damage": 100
+    },
+    {
+      "id": 18,
+      "text": "espinazo",
+      "damage": 100
+    },
+    {
+      "id": 19,
+      "text": "menjunje",
+      "damage": 100
+    },
+    {
+      "id": 20,
+      "text": "cacerolero",
+      "damage": 100
+    },
+    {
+      "id": 21,
+      "text": "escombro",
       "damage": 100
     }
   ],
@@ -146,7 +221,7 @@
     },
     {
       "id": 7,
-      "text": "depe lepe",
+      "text": "de pelos",
       "damage": 100
     },
     {
@@ -157,6 +232,51 @@
     {
       "id": 9,
       "text": "gordito",
+      "damage": 100
+    },
+    {
+      "id": 10,
+      "text": "de lujo",
+      "damage": 100
+    },
+    {
+      "id": 11,
+      "text": "rojo",
+      "damage": 100
+    },
+    {
+      "id": 12,
+      "text": "verdoso",
+      "damage": 100
+    },
+    {
+      "id": 13,
+      "text": "risueño",
+      "damage": 100
+    },
+    {
+      "id": 14,
+      "text": "del pueblo",
+      "damage": 100
+    },
+    {
+      "id": 15,
+      "text": "ex inferis",
+      "damage": 100
+    },
+    {
+      "id": 16,
+      "text": "del pecado",
+      "damage": 100
+    },
+    {
+      "id": 18,
+      "text": "sin asunto",
+      "damage": 100
+    },
+    {
+      "id": 19,
+      "text": "preferido",
       "damage": 100
     }
   ]

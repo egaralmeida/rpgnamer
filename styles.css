@@ -24,7 +24,6 @@ p {
   text-align: center;
   padding: 1.5rem;
   overflow: hidden;
-  word-break: break-all;
 }
 
 .item--em {
